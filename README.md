@@ -25,8 +25,7 @@ Based on the circuit design, here are the pin connections:
 | **Red LED (O)** | A0 |
 
 ## 📸 Circuit Diagram
-![Circuit Diagram](<img width="1355" height="631" alt="image" src="https://github.com/user-attachments/assets/84b9f11f-b105-4a3e-9bf3-e9287fa53c85" />
-) 
+![Circuit Diagram](<img width="1355" height="631" alt="image" src="https://github.com/user-attachments/assets/76cda3c4-0e3f-4582-a07d-71dc79109f5b" />) 
 *(Note: Ensure your image file is named correctly or update the path above)*
 
 ## 🕹️ How to Play
