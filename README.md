@@ -1,4 +1,4 @@
-<img width="1355" height="631" alt="image" src="https://github.com/user-attachments/assets/5b7f722b-ce0f-4f39-8f36-35967b3a06c2" /># Arduino Tic-Tac-Toe with AI & PvP Modes
+Arduino Tic-Tac-Toe with AI & PvP Modes
 
 A fully interactive Tic-Tac-Toe game built with **Arduino Uno**. This project features a smart AI opponent, a 2-player local mode, and a visual interface using an LCD display and LEDs.
 
@@ -25,8 +25,7 @@ Based on the circuit design, here are the pin connections:
 | **Red LED (O)** | A0 |
 
 ## 📸 Circuit Diagram
-![Circuit Diagram](<img width="1355" height="631" alt="image" src="https://github.com/user-attachments/assets/7731ca7b-0299-42f7-9065-8e87df60112f" />
-
+![Circuit Diagram](<img width="1355" height="631" alt="image" src="https://github.com/user-attachments/assets/84b9f11f-b105-4a3e-9bf3-e9287fa53c85" />
 ) 
 *(Note: Ensure your image file is named correctly or update the path above)*
 
