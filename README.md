@@ -26,8 +26,6 @@ Based on the circuit design, here are the pin connections:
 
 ## 📸 Circuit Diagram
 ![Circuit Diagram](https://github.com/user-attachments/assets/fef643e7-7d1b-4e09-a2da-09a042c33d99)
-) 
-*(Note: Ensure your image file is named correctly or update the path above)*
 
 ## 🕹️ How to Play
 1.  **Start:** Upon powering up, select your mode using the keypad.
